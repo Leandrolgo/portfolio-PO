@@ -13,8 +13,8 @@ Jira Software — Backlog, Sprints e Board Scrum
 Confluence — Documentação do produto
 Evidências do Projeto
 Gestão de Sprint no Jira
-Abaixo, a visualização do board configurado para o projeto RouteSync, demonstrando a gestão de fluxo e priorização: image
-
+Abaixo, a visualização do board configurado para o projeto RouteSync, demonstrando a gestão de fluxo e priorização: 
+<img width="987" height="542" alt="image" src="https://github.com/user-attachments/assets/39ea9b45-3e37-48bc-aad0-1eb10520c1e0" />
 Documentação no Confluence — Product Vision
 Utilizei o Confluence para centralizar a documentação estratégica, incluindo o Elevator Pitch e a visão do produto para garantir o alinhamento entre os stakeholders: image
 
