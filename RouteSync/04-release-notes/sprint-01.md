@@ -1,7 +1,7 @@
-# Release Notes - Sprint 01
+
 # Release Notes — Sprint 01 (Finalizada)
 
-**Período:** [Coloque as datas da sua primeira Sprint aqui]
+**Período:** 01/06 a 14/06
 **Meta da Sprint:** Estabelecer a base de sincronização de rotas e disponibilizar a interface inicial para motoristas e supervisores.
 
 ## 🚀 Novas Funcionalidades (O que foi entregue)
