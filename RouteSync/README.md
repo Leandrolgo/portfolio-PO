@@ -1,24 +1,39 @@
-Projeto em destaque — RouteSync
-O RouteSync nasceu para resolver a falta de visibilidade logística em transportadoras de pequeno porte. O foco do projeto foi reduzir o Lead Time de entrega e eliminar falhas de comunicação entre a base e o motorista através de um backlog orientado a dados.
+# 🗺️ RouteSync — Sincronização Inteligente de Rotas Logísticas
 
-O que foi desenvolvido:
-Product Vision
-Personas e Jornada do Usuário
-15 User Stories com Critérios de Aceite
-Definição de Ready e Done
-Roadmap de 18 meses
-Release Notes Sprint 1
-Ferramentas utilizadas:
-Jira Software — Backlog, Sprints e Board Scrum
-Confluence — Documentação do produto
-Evidências do Projeto
-Gestão de Sprint no Jira
-Abaixo, a visualização do board configurado para o projeto RouteSync, demonstrando a gestão de fluxo e priorização: 
-<img width="987" height="542" alt="image" src="https://github.com/user-attachments/assets/39ea9b45-3e37-48bc-aad0-1eb10520c1e0" />
-Documentação no Confluence — Product Vision
-Utilizei o Confluence para centralizar a documentação estratégica, incluindo o Elevator Pitch e a visão do produto para garantir o alinhamento entre os stakeholders: 
-<img width="842" height="336" alt="image" src="https://github.com/user-attachments/assets/67c225d0-8690-4040-a3ce-6b786a6d4345" />
-Estrutura do Portfólio
-Pasta	Conteúdo
-/routesync/documentacao	Product Vision, Personas, Jornada
-/routesync/gestao-agil	User Stories, DoR/DoD, Roadmap, Release Notes
+O **RouteSync** é um ecossistema focado na otimização de trajetos e na sincronização em tempo real entre motoristas em trânsito e equipes de supervisão em escritório. Este projeto foi desenvolvido sob a perspectiva de **Product Management / Product Ownership**, cobrindo desde a fase de descoberta de produto (Discovery) até a entrega e o mapeamento de valor através de metodologias ágeis (Scrum/Kanban).
+
+---
+
+## 📂 Estrutura de Gestão do Produto
+
+Para facilitar a navegação pelo ciclo de vida do produto, a documentação está organizada da seguinte forma:
+
+### 🎯 [01 — Descoberta e Estratégia](./01-product-discovery/)
+* [Elevator Pitch](./01-product-discovery/elevator-pitch.md): O argumento estratégico e diferencial competitivo do RouteSync.
+* [Visão do Produto](./01-product-discovery/product-vision.md): Propósito de longo prazo e dores de mercado que resolvemos.
+* [Personas](./01-product-discovery/personas.md): O perfil detalhado dos usuários (Motorista e Supervisor).
+* [Jornada do Usuário](./01-product-discovery/user-journey.md): O fluxo diário de operação integrado ponta a ponta.
+
+### 📝 [02 — Backlog e Engenharia de Requisitos](./02-backlog/)
+* [Histórias de Usuário](./02-backlog/user-stories.md): O mapeamento de funcionalidades no formato padrão (*Como... Quero... Para...*).
+* [Critérios de Aceite](./02-backlog/acceptance-criteria.md): Cenários de teste e regras de negócio (*Dado... Quando... Então...*).
+* [Definition of Ready (DoR)](./02-backlog/definition-of-ready.md): Acordo de prontidão para entrada de tarefas no desenvolvimento.
+* [Definition of Done (DoD)](./02-backlog/definition-of-done.md): Critérios de qualidade para homologação e encerramento de tarefas.
+
+### 📅 [03 — Planejamento e Roadmap](./03-roadmap/)
+* [Roadmap de 18 Meses](./03-roadmap/roadmap-18-meses.md): A visão de futuro e marcos de evolução do produto trimestral (Quarters).
+* [Planejamento da Sprint](./03-roadmap/sprint-planning.md): Alinhamento e escopo que geraram o desenvolvimento atual.
+
+### 🚀 [04 — Notas de Lançamento](./04-release-notes/)
+* [Release Notes — Sprint 01](./04-release-notes/sprint-01.md): Relatório de funcionalidades homologadas e valor entregue ao final do ciclo.
+
+### 📸 [05 — Evidências do Projeto](./05-evidence/)
+* Espaço dedicado aos registros visuais do painel tático no **Jira Software** e documentações integradas no **Confluence**.
+
+---
+
+## 🛠️ Competências de Produto Demonstradas neste Projeto
+* **Product Discovery & Strategy:** Definição clara de dores, personas e posicionamento de mercado.
+* **Agile Requirements Engineering:** Escrita avançada de User Stories e cenários com critérios de aceite estruturados.
+* **Agile Project Management:** Domínio prático de ritos ágeis (Sprint Planning e Release Notes) integrados ao Jira.
+* **Technical Communication:** Alinhamento preciso e transparente entre os objetivos de negócio e o time de desenvolvimento (Engenharia de Software).
