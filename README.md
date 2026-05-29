@@ -1,75 +1,29 @@
-# Portfólio — Product Owner
+# 📍 RouteSync
 
-![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=Jira&logoColor=white)
-![Confluence](https://img.shields.io/badge/Confluence-172B4D?style=for-the-badge&logo=Confluence&logoColor=white)
-![Scrum](https://img.shields.io/badge/Methodology-Scrum-orange?style=for-the-badge)
+> **Status do Projeto:** 🚀 Em Desenvolvimento (Sprint 03)
+> **Meu Papel:** Engenharia de Requisitos, Gestão de Backlog (PO) e Análise de Negócio.
 
-**Leandro Gasparello**
-Mestre em Engenharia de Produção | Graduado em Administração | Cursando Engenharia de Software
+O **RouteSync** é uma plataforma de roteirização inteligente desenvolvida para otimizar a logística urbana. O sistema resolve o problema de planejamento manual de entregas, calculando rotas otimizadas com múltiplos pontos de parada para economizar tempo, combustível e recursos operacionais.
 
 ---
 
-## Sobre mim
+## 🗺️ Estrutura do Projeto (Product Management)
 
-Product Owner em transição de carreira, com background sólido em 
-gestão de processos, visão de negócio e 10 anos de experiência 
-em docência. Combino pensamento analítico da Engenharia de Produção 
-com comunicação clara desenvolvida em sala de aula para conectar 
-negócio, usuário e time técnico.
+Diferente de repositórios focados apenas em código puro, este projeto foi estruturado seguindo as melhores práticas de **Gestão de Produto (PM)** e **Engenharia de Software**, contendo o ciclo completo de discovery e delivery:
 
----
-
-## 🚚 Projeto em Destaque — RouteSync
-**O problema:** Transportadoras de pequeno porte perdem eficiência por falta de rastreamento em tempo real e excesso de processos manuais.
-**A solução:** Plataforma para gestão de rotas e monitoramento de entregas.
-
-### 📑 Exemplo de Refinamento (User Story)
-Para demonstrar minha prática no **Jira**, abaixo está um exemplo de uma das histórias de usuário do projeto:
-
-* **ID:** RS-05 - Rastreamento de Veículo no Mapa
-* **Persona:** Gestor de Logística
-* **User Story:** Como gestor, quero visualizar a posição GPS do motorista no mapa, para informar o cliente sobre a previsão exata de entrega.
-* **Critérios de Aceite:**
-    * [ ] O mapa deve exibir o ícone do veículo em tempo real via integração GPS.
-    * [ ] Deve haver um rótulo com a placa do veículo e nome do motorista.
-    * [ ] Se o sinal cair por mais de 5 minutos, o ícone deve mudar para a cor cinza (Status: Offline).
+* **📂 01-product-discovery:** Alinhamento estratégico, personas, dores do usuário e [Métricas de Sucesso (OKRs/KPIs)](./01-product-discovery/metrics.md).
+* **📂 02-backlog:** Organização do escopo do produto com o fatiamento de [Épicos](./02-backlog/epics.md) e User Stories priorizadas.
+* **📂 03-roadmap:** Linha do tempo e planejamento de lançamentos do MVP.
+* **📂 04-release-notes:** Histórico transparente de entregas por ciclo, detalhando a evolução da [Sprint 02](./04-release-notes/sprint-02.md) e [Sprint 03](./04-release-notes/sprint-03.md).
+* **📂 RouteSync:** Código-fonte da aplicação e testes de engenharia.
 
 ---
 
-## 🛠️ Stack de Gestão
-* **Jira:** Gestão de Backlog, Sprints e escrita de User Stories.
-* **Confluence:** Documentação de Product Vision, Personas e DoR/DoD.
+## 🛠️ Competências Aplicadas neste Repositório
 
-## Projeto em destaque — RouteSync
-
-O RouteSync nasceu para resolver a falta de visibilidade logística em transportadoras de pequeno porte. O foco do projeto foi reduzir o Lead Time de entrega e eliminar falhas de comunicação entre a base e o motorista através de um backlog orientado a dados.
-
-### O que foi desenvolvido:
-- Product Vision
-- Personas e Jornada do Usuário
-- 15 User Stories com Critérios de Aceite
-- Definição de Ready e Done
-- Roadmap de 18 meses
-- Release Notes Sprint 1
-
-### Ferramentas utilizadas:
-- Jira Software — Backlog, Sprints e Board Scrum
-- Confluence — Documentação do produto
-
-[Acesse aqui o detalhamento técnico, telas do Jira e Confluence do projeto RouteSync](./RouteSync/README.md)
+Neste projeto, liderei a camada de negócio e arquitetura de requisitos, aplicando conceitos práticos de:
+* **Metodologias Ágeis:** Divisão de ciclos e governança utilizando o framework Scrum.
+* **Visão de Produto:** Definição de MVP (Mínimo Produto Viável) focado no valor para o cliente de logística.
+* **Comunicação Técnica:** Criação de documentação clara e viva (Docs as Code) para alinhar as expectativas de negócio com o time de desenvolvimento.
 
 ---
-
-## Estrutura do Portfólio
-
-| Pasta | Conteúdo |
-|-------|---------|
-| `/routesync/documentacao` | Product Vision, Personas, Jornada |
-| `/routesync/gestao-agil` | User Stories, DoR/DoD, Roadmap, Release Notes |
-
----
-
-## Contato
-
-- LinkedIn:https://www.linkedin.com/in/leandrogasparellodeoliveira/
-- Email: leandro.gasparello@gmail.com
